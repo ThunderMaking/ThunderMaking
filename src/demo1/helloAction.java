@@ -21,6 +21,8 @@ public class helloAction extends ActionSupport {
 	}
 	public String demo5(){
 		System.out.println("demo5----");
+
+        你好
 		return SUCCESS;
 	}
 	
